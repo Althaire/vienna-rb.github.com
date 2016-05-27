@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2016-05-27T11:23:17+02:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/05/25/picks/"/>
+    <updated>2016-05-25T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/05/25/picks</id>
+    <content type="html"><![CDATA[<h3>05/25 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-sixtieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://diversity.github.com/">Diversity and Inclusion at GitHub</a> - For the very first time, GitHub have published their diversity data.</li>
+<li><a href="http://devblog.avdi.org/2016/05/23/please-help-me-to-not-go-broke/">Help Avdi Grimm</a> - If you&rsquo;ve ever watched the free RubyTapas episodes, and can afford to pay for a subscription — now is the time to do so.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5">“Eat, sleep, code, repeat” is such bullshit</a> - Dan Kim on the toxic hype of programming all the time.</li>
+<li><a href="http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/">How Developers Stop Learning: Rise of the Expert Beginner</a> - What happens if you reach a local maxima in your learning curve, and stay there.</li>
+<li><a href="https://karla.io/2016/04/30/ssh-for-fun-and-profit.html">SSH for Fun and Profit</a> - Karla, a security engineer at stripe, implements a simple SSH client in Python, and shows the basic inner workings of SSH.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.k18y02h58">Ruby has been fast enough for 13 years</a> - <a href="https://twitter.com/dhh">DHH</a> brings another point into the Ruby-is-to-slow debate: programmers&#8217; overall happiness.</li>
+<li><a href="http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html">My time with Rails is up</a> - <a href="https://twitter.com/_solnic_">Piotr Solnica</a> on leaving Rails (and Ruby) and the need for a more diverse Ruby ecosystem.</li>
+<li><a href="https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class-3fc019f85165#.24opx1o22">What we learned while hiring the Basecamp summer internship class</a> - How Basecamp hires iterns, how one should hire iterns and what to do to get hired as an intern.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/05/18/picks/"/>
+    <updated>2016-05-18T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/05/18/picks</id>
+    <content type="html"><![CDATA[<h3>05/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fifty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://confreaks.tv/videos/railsconf2016-site-availability-is-for-everybody">Site Availability is for Everybody</a> - Stella Cotton&rsquo;s pretty enlightening talk from RailsConf about load testing, using a real-life example.</li>
+<li><a href="https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39">Today I accept that Rails is yesterday&rsquo;s software</a> - Worth a read, if only to be reminded that once in a while, we should look around and elsewhere&hellip;</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://www.gethopscotch.com/">iOS: Hopscotch</a> - Game programming on your iOS device!</li>
+<li><a href="https://frinkiac.com/">Frinkiac</a> - Do-it-yourself Simpsons GIFs.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://lionelbarrow.com/2016/05/08/i-suck-at-building-stuff/">I&rsquo;m a Good Engineer but I Suck at Building Stuff</a> - Even if you have the skills, it can be difficult to get started.</li>
+<li><a href="http://carl.flax.ie/dothingstellpeople.html">Do things, tell people.</a> - By doing so, you will generate interesting opportunities for yourself.</li>
+<li><a href="https://www.propublica.org/article/how-typography-can-save-your-life">How Typography Can Save Your Life</a> - Typography is not something that seems to be given a lot of thought, usually. But it can make a crucial difference.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="https://vimeo.com/165527044">Make Ruby Great Again</a> - Talk questioning how we think about tools vs. opinions and proposing a future place for Ruby.</li>
+<li><a href="http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900">AntiPatterns Basics: Rails Controllers</a> - Refreshingly pragmatic and non-fundamentalistic tips on designing Rails-controllers.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/05/11/picks/"/>
+    <updated>2016-05-11T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/05/11/picks</id>
+    <content type="html"><![CDATA[<h3>05/11 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fifty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://demos.algorithmia.com/github-readme-analyzer/">GitHub README Analyzer</a> - A small tool to analyse and improve your project&rsquo;s readme.</li>
+<li><a href="https://github.com/blog/2164-introducing-unlimited-private-repositories">GitHub introduces unlimited private repositories for individuals</a> - If, like me, you&rsquo;ve been paying for private repositories monthly at GitHub, these news will make you happy: instead of 5 private repos, you now get an unlimited amount.</li>
+<li><a href="http://rubybookclub.com/episodes/2016/5/9/episode-6-railsconf">Ruby Book Club on RailsConf</a> - I was at RailsConf last week &lt;3 There were a lot of high quality talks (expect more links to those in the future) and Ruby Book Club have done a special on their experience of the conference.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://rubygems.org/gems/scss_lint">Gem: <code>scss_lint</code></a> - A neat analysis tool for your SCSS that&rsquo;s configurable!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://99u.com/articles/51908/nobody-cares-how-hard-you-work">Nobody Cares How Hard You Work</a></li>
+<li><a href="http://dev.to/ben/what-happens-to-lazy-programmers">What Happens to Lazy Programmers?</a></li>
+<li><a href="http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/">When to Rewrite from Scratch - Autopsy of a Failed Software</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://blog.arkency.com/2014/07/4-ways-to-early-return-from-a-rails-controller/">4 ways to early return from a rails controller</a> - All you&rsquo;ve ever wanted to know about returning from a controller action in rails. Really good stuff to know.</li>
+<li><a href="https://waffle.io">waffle.io</a> - If trello and github had a beatiful baby. I&rsquo;ve been using it for project management lately and I&rsquo;m lovin&#8217; it.</li>
+<li><a href="http://kramdown.gettalong.org/documentation.html">Kramdown</a> - Fully Ruby markdown intrepreter. Made with &lt;3 in Austria.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="https://changelog.com/202/">23 Years of Ruby with Matz</a> - <a href="https://en.wikipedia.org/wiki/Yukihiro_Matsumoto">Matz</a> being nice and funny while sharing some insights on his (and Ruby&rsquo;s) history on the <a href="https://changelog.com/">Changelog</a>.</li>
+<li><a href="https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.2x7satsdu">How to learn web frameworks</a> - Another possible and possibly sane approach to the abyss of web frameworks and its destructive powers on junior devs.</li>
+<li><a href="https://www.reddit.com/r/ruby/comments/4ief5q/congrats_to_the_ruby_heroes_2016_youre/d2z6o8v">Real open source has much, much more to do than just code</a> - <a href="https://twitter.com/steveklabnik">Steve Klabnik</a> showing how to use nice and wisely chosen words to educate narrow-minded rubyists (they sadly do exist).</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/05/04/picks/"/>
+    <updated>2016-05-04T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/05/04/picks</id>
+    <content type="html"><![CDATA[<h3>05/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fifty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://confreaks.tv/live/railsconf2016">RailsConf keynote livestream</a> - every RailsConf keynote will be streamed live this year — you can find the schedule <a href="http://railsconf.com/schedule">here</a>.</li>
+<li><a href="https://www.smartninja.at/blog/coding-mit-herz-interview-mit-laura-gaetano-1462091929138">Coding Mit Herz</a> - I was recently briefly interviewed by Smart Ninja about programming. Check it out! #shameless-plug</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=OV5J6BfToSw">Linguistics, Style and Writing in the 21st Century (Video)</a> - Just because it&rsquo;s obvious to you, it&rsquo;s not obvious to everyone else. Steven Pinker on the curse of knowledge.</li>
+<li><a href="https://m.signalvnoise.com/you-play-like-you-practice-c218386132c6">You play like you practice</a> - If you cut corners when you practice something, you&rsquo;ll get it wrong later when it matters.</li>
+<li><a href="https://deardesignstudent.com/doing-the-right-thing-the-wrong-way-1f84c6785ba1">Doing the right thing the wrong way</a> - Good design is not just about empathy, it&rsquo;s also about inclusion and diversity.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.tdndil62b">Being A Developer After 40</a> - Interesting package of insights, history and lessons learned from a 42 years-old developer.</li>
+<li><a href="https://robots.thoughtbot.com/blocks-procs-and-enumerable">Blocks, Procs, and Enumerable</a> - Refreshing the knowledge on Ruby&rsquo;s <code>Enumerable</code> module and its actual awesomeness.</li>
+<li><a href="https://robots.thoughtbot.com/factories-should-be-the-bare-minimum">Factories Should be the Bare Minimum</a> - Avoid surprises in the wrong moment by keeping your factories minimal.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/04/27/picks/"/>
+    <updated>2016-04-27T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/04/27/picks</id>
+    <content type="html"><![CDATA[<h3>04/27 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fifty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://foundation.travis-ci.org/2016/04/26/diversity-tickets/">An app to diversify tech conferences</a> - How to offer diversity tickets at your conference</li>
+<li><a href="https://2016.fullstackfest.com/call-for-papers/">Full Stack Fest CFP</a> - submit your talk before May 14th!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://sethgodin.typepad.com/seths_blog/2016/04/our-software-must-get-better.html">Our software must get better</a> - Sometimes, &ldquo;good enough&rdquo; really is enough. But often, we should keep on making it better.</li>
+<li><a href="http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a></li>
+<li><a href="https://css-tricks.com/the-snowballing-of-practice/">The Snowballing of Practice</a> - A little bit each day will eventually amount to a lot (see also: <a href="https://en.wikipedia.org/wiki/Compound_interest">compound interest</a>)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
